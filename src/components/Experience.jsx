@@ -3,9 +3,10 @@ import html from '../assets/html.png'
 import css from '../assets/css.png'
 import javascript from '../assets/javascript.png'
 import reactImage from '../assets/react.png'
-import nextjs from '../assets/nextjs.png'
+import bootstrap from '../assets/bootstrap.png'
 import graphql from '../assets/graphql.png'
 import tailwind from '../assets/tailwind.png'
+import github from '../assets/github.png'
 
 const Experience = () => {
     const techs = [
@@ -35,8 +36,8 @@ const Experience = () => {
         },
         {
             id: 5,
-            src: nextjs,
-            title: 'Next Js',
+            src: bootstrap,
+            title: 'Bootstrap',
             style: "shadow-white"
         },
         {
@@ -53,8 +54,8 @@ const Experience = () => {
         },
         {
             id: 8,
-            src: tailwind,
-            title: 'Tailwind',
+            src: github,
+            title: 'github',
             style: "shadow-gray-400"
         },
        
