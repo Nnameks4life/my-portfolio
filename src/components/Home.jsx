@@ -18,7 +18,7 @@ const Home = () => {
             {" "}
             I have 3 years of experience building and designing software.
             Currently I like to work on web Applications using technologies like
-            React, Javascript, CSS, Html, Tailwind, Ant Design.
+            ,Javascript, Typescript, React, CSS, Html, Tailwind, Ant Design.
           </p>
           <div>
             
