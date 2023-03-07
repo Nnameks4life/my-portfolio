@@ -13,7 +13,7 @@ const Portfolio = () => {
       src: chatapp,
       link: `https://emekas-chat-application.netlify.app`,
       gitLink: `https://github.com/frankdev0/Realtime_ChatApp_Using_Firebase`,
-      title: "Chat App"
+      title: "Chat Application Using Firebase"
     },
     {
       id: 2,
@@ -27,7 +27,7 @@ const Portfolio = () => {
       src: buyershub,
       link: `https://tofa-buyershub-admin.netlify.app`,
       gitLink: `https://github.com/frankdev0/TOFA-NEW-ADMIN-DASHBOARD`,
-      title: "Buyers Admin Dasbaord"
+      title: "Buyers Admin Dashboard"
     },
     {
       id: 4,
@@ -48,7 +48,7 @@ const Portfolio = () => {
       src: arrayDestruct,
       link: `https://github.com/frankdev0/Jewelry-store`,
       gitLink: `https://github.com/frankdev0/Jewelry-store`,
-      title: "Jewelry Store"
+      title: "Responsive Jewelry Store Website"
     },
   ];
   console.log("portfolios", portfolios);

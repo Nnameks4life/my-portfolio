@@ -13,8 +13,8 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          My name is Nnaemeka Ogunewe, and I go by Emeka. I am a front-end
-          developer based in Lagos, Nigeria. I have developed carious types of
+          My name is Nnaemeka Ogunewe, and I go by Emeka. I am a frontend
+          developer based in Lagos, Nigeria. I have developed various types of
           frontend Application, ranging from an Admin dashboard; where I implemented CRUD(Create,
           Read, Upadate, and Delete) functionalities on it. I have also worked on an
           E-commerce website for buyers and sellers. I am passionate about
