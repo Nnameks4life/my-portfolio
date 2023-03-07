@@ -12,7 +12,7 @@ const SocialIcons = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href:'http://linkedIn.com',
+      href:'https://linkedin.com/in/nnaemeka-ogunewe-45379a167',
       style: 'rounded-tr-md'
     },
     {
@@ -22,7 +22,7 @@ const SocialIcons = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href:'http://github.com',
+      href:'https://github.com/frankdev0',
     
     },
     {
