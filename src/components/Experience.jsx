@@ -7,6 +7,7 @@ import bootstrap from '../assets/bootstrap.png'
 import graphql from '../assets/graphql.png'
 import tailwind from '../assets/tailwind.png'
 import github from '../assets/github.png'
+import typescript from '../assets/typescript.png'
 
 const Experience = () => {
     const techs = [
@@ -55,7 +56,13 @@ const Experience = () => {
         {
             id: 8,
             src: github,
-            title: 'github',
+            title: 'Github',
+            style: "shadow-gray-400"
+        },
+        {
+            id: 8,
+            src: typescript,
+            title: 'Typescript',
             style: "shadow-gray-400"
         },
        
