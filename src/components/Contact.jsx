@@ -18,16 +18,16 @@ const Contact = () => {
   return (
     <div
       name="contact"
-      className="w-full h-screen bg-gradient-to-b from-black to-gray-500 p-4 text-white"
+      className="w-full  bg-gradient-to-b from-black to-gray-500 p-4 text-white"
     >
-      <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
+      <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full ">
         <div className="pb-8">
           <p className="text-4xl font-bold border-b-4 inline border-gray-500">
             Contact
           </p>
           <p className="py-6">Submit the form below to get in touch with me</p>
         </div>
-        <div className="flex justify-center items-center ">
+        <div className="flex justify-center items-center pb-40">
           <form
             action="https://getform.io/f/388528c6-633a-405a-a689-c96f82ba90f8"
             method="POST"

@@ -51,7 +51,7 @@ const Portfolio = () => {
       title: "Responsive Jewelry Store Website"
     },
   ];
-  console.log("portfolios", portfolios);
+
   return (
     <div
       name="portfolio"
@@ -73,18 +73,18 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <a href={link}>
+                {/* <a href={link}> */}
                   <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                     Demo
                   </button>
-                </a>
-                <a href={gitLink}>
+                {/* </a> */}
+                {/* <a href={gitLink}> */}
                   <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                     Code
                   </button>
-                </a>
+                {/* </a> */}
               </div>
-              <h6 className="w-4/5 mx-auto">{title}</h6>
+              {/* <h6 className="w-4/5 mx-auto">{title}</h6> */}
             </div>
           ))}
         </div>
