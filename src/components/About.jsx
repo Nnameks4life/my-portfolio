@@ -15,7 +15,7 @@ const About = () => {
         <div>
         <p className="text-xl ">
           My name is Nnaemeka Ogunewe. I am a frontend developer based in Lagos,
-          Nigeria. I have developed various types of frontend Application,
+          Nigeria. I have developed various types of frontend Applications,
           ranging from an Admin dashboard; where I implemented CRUD(Create,
           Read, Upadate, and Delete) functionalities on it. I am passionate about
           cutting-edge, pixel-perfect, beautiful interfaces and intuitively
@@ -26,7 +26,7 @@ const About = () => {
           Here are some of my most relevant qualifications and accomplishments:
         </p>
           <ul className="pl-4 mt-10  list-disc text-xl">
-            <li>Three years of experience as a Front-End Developer </li>
+            <li>Three years of experience as a Frontend Developer </li>
             <li>In my previous company, I developed and Implemented two user admin dashboards for monitoring sales and transactions on the "Buyers hub platform" and the "Market place platform". This helped to boost the company’s revenue to about 30%. I also created an instant messaging platform for interacting with buyers, this helped in resolving disputes and attending to buyer's order in a timely and efficient manner.</li>
             <li>
               Crafted various website features using REACT JS, JAVASCRIPT, TYPESCRIPT,

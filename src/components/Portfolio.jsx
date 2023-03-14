@@ -1,5 +1,5 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
+import jewelry from "../assets/portfolio/jewelry.jpeg";
 import marketplace from "../assets/portfolio/marketplace.jpeg";
 import chatapp from "../assets/portfolio/chatapp.jpeg";
 import personal from "../assets/portfolio/personal.jpeg";
@@ -45,8 +45,8 @@ const Portfolio = () => {
     },
     {
       id: 6,
-      src: arrayDestruct,
-      link: `https://github.com/frankdev0/Jewelry-store`,
+      src: jewelry,
+      link: `https://webbsgem.netlify.app/`,
       gitLink: `https://github.com/frankdev0/Jewelry-store`,
       title: "Responsive Jewelry Store Website"
     },
