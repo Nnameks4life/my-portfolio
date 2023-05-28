@@ -16,9 +16,9 @@ const Home = () => {
           </h1>
           <p className="text-gray-500 py-4 max-w-md">
             {" "}
-            I have 3 years of experience building and designing software.
+            I have 3 years of experience building and designing softwares.
             Currently I like to work on web Applications using technologies like
-            ,Javascript, Typescript, React, CSS, Html, Tailwind, and Ant Design.
+           Webflows, No code and low code to build projects, as well as Javascript, Typescript, React, CSS, Html, Tailwind, and Ant Design.
           </p>
           <div>
             

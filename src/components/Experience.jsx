@@ -6,7 +6,8 @@ import reactImage from '../assets/react.png'
 import bootstrap from '../assets/bootstrap.png'
 // import graphql from '../assets/graphql.png'
 import tailwind from '../assets/tailwind.png'
-import github from '../assets/github.png'
+// import github from '../assets/github.png'
+import webflow from '../assets/webflow.png'
 import typescript from '../assets/typescript.png'
 
 const Experience = () => {
@@ -55,8 +56,8 @@ const Experience = () => {
         },
         {
             id: 7,
-            src: github,
-            title: 'Github',
+            src: webflow,
+            title: 'Webflow',
             style: "shadow-gray-400"
         },
         {
@@ -68,7 +69,7 @@ const Experience = () => {
        
     ]
   return (
-    <div name='experience' className='bg-gradient-to-b from-gray-800 to-black w-full md:h-screen'>
+    <div name='experience' className='bg-gradient-to-b from-gray-800 to-black w-full md:h-screen pt-36'>
         <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
             <div>
                 <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>Experience</p>

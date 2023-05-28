@@ -14,12 +14,7 @@ const About = () => {
         </div>
         <div>
         <p className="text-xl ">
-          My name is Nnaemeka Ogunewe. I am a frontend developer based in Lagos,
-          Nigeria. I have developed various types of frontend Applications,
-          ranging from an Admin dashboard; where I implemented CRUD(Create,
-          Read, Upadate, and Delete) functionalities on it. I am passionate about
-          cutting-edge, pixel-perfect, beautiful interfaces and intuitively
-          implemented UX.
+        My name is Nnaemeka Ogunewe, and I am a frontend developer based in Lagos, Nigeria. With extensive experience in developing a wide range of frontend applications, I have successfully created diverse projects, including an Admin dashboard that incorporates CRUD functionalities. Additionally, I possess expertise in webflows and have worked on both No code and Low code projects. My passion lies in crafting cutting-edge, pixel-perfect interfaces and seamlessly implementing intuitive user experiences.
         </p>
         <br />
         <p className="text-xl ">
@@ -29,9 +24,7 @@ const About = () => {
             <li>Three years of experience as a Frontend Developer </li>
             <li>In my previous company, I developed and Implemented two user admin dashboards for monitoring sales and transactions on the "Buyers hub platform" and the "Market place platform". This helped to boost the company’s revenue to about 30%. I also created an instant messaging platform for interacting with buyers, this helped in resolving disputes and attending to buyer's order in a timely and efficient manner.</li>
             <li>
-              Crafted various website features using REACT JS, JAVASCRIPT, TYPESCRIPT,
-              HTML5, SCSS, CSS3,and CSS Libraries like Tailwind, Bootstrap, and Ant
-              Design.
+            I have leveraged my skills in Webflows, No code, and Low code software development, along with expertise in REACT JS, JAVASCRIPT, TYPESCRIPT, HTML5, SCSS, CSS3, and CSS Libraries such as Tailwind, Bootstrap, and Ant Design to create a wide range of website features.
             </li>
             <li>
               Developed and Implemented project scope and timelines based on the
